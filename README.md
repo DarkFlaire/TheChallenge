@@ -6,7 +6,7 @@ Welcome to the challenge. I've come to test your [skills.](https://www.youtube.c
 ##Rules
 1. Complete the code to the best of your ability.
 2. Use Google only if absolutely necessary.
-3. Don't change the test cases. ![I can tell.](http://i2.kym-cdn.com/photos/images/newsfeed/000/625/689/46f.jpg Don't try it.)
+3. Don't change the test cases. ![I can tell.](http://vignette4.wikia.nocookie.net/agentrockstar/images/c/cb/I'm_watching_you_meme_face.gif/revision/latest?cb=20130724195856 Don't try it.)
 4. Don't use outside packages/imports.
 5. Have fun with it!
 
