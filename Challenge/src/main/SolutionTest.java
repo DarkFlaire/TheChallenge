@@ -25,6 +25,7 @@ public class SolutionTest {
 	public void testReverseInPlace() {
 		Solution tester = new Solution();
 		assertEquals("i ma a gnirts", tester.reverseInPlace(a3));
+		assertEquals("tseT em !oot", tester.reverseInPlace("Test me too!"));
 	}
 	
 	@Ignore("Only if you're brave") 
